@@ -1,0 +1,29 @@
+{
+  "brugere": [
+    {
+      "id": 1,
+      "navn": "Frederik",
+      "alder": 32
+    },
+    {
+      "navn": "Susanne",
+      "alder": 30,
+      "id": 2
+    },
+    {
+      "navn": "Jesper",
+      "alder": 30,
+      "id": 3
+    },
+    {
+      "navn": "Mogens",
+      "alder": 30,
+      "id": 4
+    },
+    {
+      "navn": "Frederikke",
+      "alder": 21,
+      "id": 5
+    }
+  ]
+}
